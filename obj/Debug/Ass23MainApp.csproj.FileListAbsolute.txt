@@ -1,0 +1,11 @@
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\bin\Debug\Ass23MainApp.exe.config
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\bin\Debug\Ass23MainApp.exe
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\bin\Debug\Ass23MainApp.pdb
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\bin\Debug\MySharedLib.dll
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\bin\Debug\MySharedLib.pdb
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.csproj.AssemblyReference.cache
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.csproj.CoreCompileInputs.cache
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.csproj.CopyComplete
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.exe
+D:\Simply Learn\day20\Ass23MainApp\Ass23MainApp\obj\Debug\Ass23MainApp.pdb
